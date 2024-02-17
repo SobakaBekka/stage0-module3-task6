@@ -4,7 +4,7 @@ public class FloatTypeCasting {
     public void roundNumber(float numberToBeRounded){
 
         long a = Math.round(numberToBeRounded);
-        System.out.println(numberToBeRounded);
+        System.out.println(a);
 
     }
 }
